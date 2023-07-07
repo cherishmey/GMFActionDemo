@@ -1,7 +1,9 @@
 {
     "FakeRelayUrl": "https://fakerelay.gervas.io",
     "Tags": [ 
-        "파판14_툿친소",        
+        "파판14_툿친소",
+        "작혼_툿친소",
+        "#마작_툿친소",
         "파판14",
         "마작",
         "마작토돈",
@@ -12,10 +14,9 @@
     "Instances": [ 
         "twingyeo.kr", 
         "ani.work", 
-        "k.lapy.link", 
         "mustard.blog", 
-        "stella.place", 
         "planet.moe", 
-        "k.lapy.link" 
+        "uri.life",
+        
     ]
 }
